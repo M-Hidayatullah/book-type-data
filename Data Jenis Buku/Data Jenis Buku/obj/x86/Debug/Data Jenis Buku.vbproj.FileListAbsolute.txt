@@ -1,0 +1,21 @@
+c:\users\yuii\documents\visual studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\bin\Debug\Data Jenis Buku.exe
+c:\users\yuii\documents\visual studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\bin\Debug\Data Jenis Buku.pdb
+c:\users\yuii\documents\visual studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\bin\Debug\Data Jenis Buku.xml
+c:\users\yuii\documents\visual studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data_Jenis_Buku.Resources.resources
+c:\users\yuii\documents\visual studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.vbproj.GenerateResource.Cache
+c:\users\yuii\documents\visual studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.exe
+c:\users\yuii\documents\visual studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.xml
+c:\users\yuii\documents\visual studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.pdb
+c:\users\yuii\documents\visual studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data_Jenis_Buku.DataJenis.resources
+C:\Users\User\Downloads\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.exe
+C:\Users\User\Downloads\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.xml
+C:\Users\User\Downloads\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.pdb
+C:\Users\User\Downloads\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\bin\Debug\Data Jenis Buku.exe
+C:\Users\User\Downloads\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\bin\Debug\Data Jenis Buku.pdb
+C:\Users\User\Downloads\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\bin\Debug\Data Jenis Buku.xml
+C:\Users\User\Downloads\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data_Jenis_Buku.DataJenis.resources
+C:\Users\User\Downloads\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data_Jenis_Buku.Resources.resources
+C:\Users\User\Downloads\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\Data Jenis Buku\Data Jenis Buku\Data Jenis Buku\obj\x86\Debug\Data Jenis Buku.pdb
